@@ -1,0 +1,39 @@
+# Maven
+target/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.asc
+.flattened-pom.xml
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+.sts4-cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Runtime
+.env
+*.swp
+*.swo
+*~
